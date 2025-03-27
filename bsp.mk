@@ -49,5 +49,5 @@ DEVICE_CY8C4046LQI-T452_DIE:=PSoC4ASF2
 DEVICE_CY8C4046LQI-T452_FLASH_KB:=64
 DEVICE_CY8C4046LQI-T452_SRAM_KB:=8
 DEVICE_LIST:=CY8C4046LQI-T452
-DEVICE_TOOL_IDS:=bsp-assistant capsense-configurator capsense-tuner device-configurator dfuh-tool library-manager project-creator
+DEVICE_TOOL_IDS:=bsp-assistant capsense-configurator capsense-tuner device-configurator dfuh-tool library-manager project-creator sensor-designer-tool
 RECIPE_DIR:=$(SEARCH_recipe-make-cat2)
